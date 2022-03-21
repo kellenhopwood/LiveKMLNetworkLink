@@ -1108,6 +1108,16 @@
                         <Point>
                         <coordinates>32.00000000,51.33333000,100</coordinates>
                         </Point>
+                        </Placemark><Style id="Placemark22411275">
+                        <IconStyle><Icon>
+                        <href>https://liveuamap.com/en/images/is14/destroy_red.png</href>
+                        </Icon> </IconStyle>
+                        </Style><Placemark>            
+                        <description><![CDATA[<strong>08:58 Damage in Mariupol city, as of Mar 18 as KML file readable in GoogleEarthPro, according  to satellite image analysis by @UNITAR</strong><br/>https://liveuamap.com/en/2022/21-march-damage-in-mariupol-city-as-of-mar-18-as-kml-file]]></description>
+                        <styleUrl>#Placemark22411275</styleUrl>            
+                        <Point>
+                        <coordinates>37.64774,47.10787,100</coordinates>
+                        </Point>
                         </Placemark><Style id="Placemark22411160">
                         <IconStyle><Icon>
                         <href>https://liveuamap.com/en/images/is14/helicopter_blue.png</href>
@@ -1369,6 +1379,16 @@ Oliver Varhelyi: At EU Foreign Ministers meeting FAC for @EU_Commission today: E
                         <Point>
                         <coordinates>30.52341,50.45539,100</coordinates>
                         </Point>
+                        </Placemark><Style id="Placemark22411334">
+                        <IconStyle><Icon>
+                        <href>https://liveuamap.com/en/images/is14/map_red.png</href>
+                        </Icon> </IconStyle>
+                        </Style><Placemark>            
+                        <description><![CDATA[<strong>14:14 Russian situation map in Kherson region(as of 10th March) seized by Ukrainian military</strong><br/>https://liveuamap.com/en/2022/21-march-russian-situation-map-in-kherson-regionas-of-10th]]></description>
+                        <styleUrl>#Placemark22411334</styleUrl>            
+                        <Point>
+                        <coordinates>32.3822,46.73296,100</coordinates>
+                        </Point>
                         </Placemark><Style id="Placemark22411247">
                         <IconStyle><Icon>
                         <href>https://liveuamap.com/en/images/is14/rescue_blue.png</href>
@@ -1418,6 +1438,166 @@ Oliver Varhelyi: At EU Foreign Ministers meeting FAC for @EU_Commission today: E
                         <styleUrl>#Placemark22411255</styleUrl>            
                         <Point>
                         <coordinates>-77.05553,38.87054,100</coordinates>
+                        </Point>
+                        </Placemark><Style id="Placemark22411258">
+                        <IconStyle><Icon>
+                        <href>https://liveuamap.com/en/images/is14/speech_blue.png</href>
+                        </Icon> </IconStyle>
+                        </Style><Placemark>            
+                        <description><![CDATA[<strong>14:37 US is NOT seeing any indications that Belarus is positioning troops or making moves in preparation to send troops into Ukraine, per a senior US defense official</strong><br/>https://liveuamap.com/en/2022/21-march-us-is-not-seeing-any-indications-that-belarus-is]]></description>
+                        <styleUrl>#Placemark22411258</styleUrl>            
+                        <Point>
+                        <coordinates>-77.05682,38.87032,100</coordinates>
+                        </Point>
+                        </Placemark><Style id="Placemark22411263">
+                        <IconStyle><Icon>
+                        <href>https://liveuamap.com/en/images/is14/speech_blue.png</href>
+                        </Icon> </IconStyle>
+                        </Style><Placemark>            
+                        <description><![CDATA[<strong>14:38 Republican Senator Lindsey Graham: The destruction of Mariupol by Russian forces is one of the greatest war crimes in modern history</strong><br/>https://liveuamap.com/en/2022/21-march-republican-senator-lindsey-graham-the-destruction]]></description>
+                        <styleUrl>#Placemark22411263</styleUrl>            
+                        <Point>
+                        <coordinates>-77.00953,38.8895,100</coordinates>
+                        </Point>
+                        </Placemark><Style id="Placemark22411261">
+                        <IconStyle><Icon>
+                        <href>https://liveuamap.com/en/images/is14/speech_blue.png</href>
+                        </Icon> </IconStyle>
+                        </Style><Placemark>            
+                        <description><![CDATA[<strong>14:38 First shipments of the latest US $800 million security assistance to Ukraine, which includes switchblade drones,  should be arriving soon, per a senior US defense official   "The wheels are moving very quickly"</strong><br/>https://liveuamap.com/en/2022/21-march-first-shipments-of-the-latest-us-800-million-security]]></description>
+                        <styleUrl>#Placemark22411261</styleUrl>            
+                        <Point>
+                        <coordinates>-77.05489,38.87052,100</coordinates>
+                        </Point>
+                        </Placemark><Style id="Placemark22411265">
+                        <IconStyle><Icon>
+                        <href>https://liveuamap.com/en/images/is14/speech_blue.png</href>
+                        </Icon> </IconStyle>
+                        </Style><Placemark>            
+                        <description><![CDATA[<strong>14:39 Senior U.S. defense official: U.S. will continue to deliver weapons to Ukraine that the military "knows how to use"</strong><br/>https://liveuamap.com/en/2022/21-march-senior-us-defense-official-us-will-continue-to-deliver]]></description>
+                        <styleUrl>#Placemark22411265</styleUrl>            
+                        <Point>
+                        <coordinates>-77.05785,38.87012,100</coordinates>
+                        </Point>
+                        </Placemark><Style id="Placemark22411267">
+                        <IconStyle><Icon>
+                        <href>https://liveuamap.com/en/images/is14/gas_blue.png</href>
+                        </Icon> </IconStyle>
+                        </Style><Placemark>            
+                        <description><![CDATA[<strong>14:47 Environment Ministry of Ukraine: significant concentration of ammonia is still in the air after leak at SumyKhimProm</strong><br/>https://liveuamap.com/en/2022/21-march-environment-ministry-of-ukraine-significant-concentration]]></description>
+                        <styleUrl>#Placemark22411267</styleUrl>            
+                        <Point>
+                        <coordinates>34.87576,50.88008,100</coordinates>
+                        </Point>
+                        </Placemark><Style id="Placemark22411269">
+                        <IconStyle><Icon>
+                        <href>https://liveuamap.com/en/images/is14/speech_blue.png</href>
+                        </Icon> </IconStyle>
+                        </Style><Placemark>            
+                        <description><![CDATA[<strong>14:53 Pentagon: Still no Russian air superiority, thanks to a "very creative air defense posture" by Ukraine. Ukrainians are being very resourceful. Last 24-48 hrs, seen air activity increase. Russia has flown >300 sorties in last 24 hours. Ukraine picked up pace as well</strong><br/>https://liveuamap.com/en/2022/21-march-pentagon-still-no-russian-air-superiority-thanks]]></description>
+                        <styleUrl>#Placemark22411269</styleUrl>            
+                        <Point>
+                        <coordinates>-77.05716,38.86958,100</coordinates>
+                        </Point>
+                        </Placemark><Style id="Placemark22411271">
+                        <IconStyle><Icon>
+                        <href>https://liveuamap.com/en/images/is14/speech_red.png</href>
+                        </Icon> </IconStyle>
+                        </Style><Placemark>            
+                        <description><![CDATA[<strong>14:56 Russian Ministry of Defense says Kinzhal missiles were launched from 1000kms distance and with conventional warheads and highlights that these missiles could be used "at larger distances and with other warheads"</strong><br/>https://liveuamap.com/en/2022/21-march-russian-ministry-of-defense-says-kinzhal-missiles]]></description>
+                        <styleUrl>#Placemark22411271</styleUrl>            
+                        <Point>
+                        <coordinates>37.59,55.72757,100</coordinates>
+                        </Point>
+                        </Placemark><Style id="Placemark22411278">
+                        <IconStyle><Icon>
+                        <href>https://liveuamap.com/en/images/is14/hostage_red.png</href>
+                        </Icon> </IconStyle>
+                        </Style><Placemark>            
+                        <description><![CDATA[<strong>15:04 Russian troops kidnapped town head of Berislav and local activist, their whereabouts not known for 3 days</strong><br/>https://liveuamap.com/en/2022/21-march-russian-troops-kidnapped-town-head-of-berislav-and]]></description>
+                        <styleUrl>#Placemark22411278</styleUrl>            
+                        <Point>
+                        <coordinates>33.41354,46.83577,100</coordinates>
+                        </Point>
+                        </Placemark><Style id="Placemark22411277">
+                        <IconStyle><Icon>
+                        <href>https://liveuamap.com/en/images/is14/speech_blue.png</href>
+                        </Icon> </IconStyle>
+                        </Style><Placemark>            
+                        <description><![CDATA[<strong>15:09 Pentagon official: We have not seen any Russian attack on arms shipments to Ukraine</strong><br/>https://liveuamap.com/en/2022/21-march-pentagon-official-we-have-not-seen-any-russian-attack]]></description>
+                        <styleUrl>#Placemark22411277</styleUrl>            
+                        <Point>
+                        <coordinates>-77.05583,38.87022,100</coordinates>
+                        </Point>
+                        </Placemark><Style id="Placemark22411279">
+                        <IconStyle><Icon>
+                        <href>https://liveuamap.com/en/images/is14/speech_purple.png</href>
+                        </Icon> </IconStyle>
+                        </Style><Placemark>            
+                        <description><![CDATA[<strong>15:16 Bloomberg: China's envoy to the U.S., Qin Gang, on Sunday said China "will do everything" to de-escalate the war and said Beijing hadn't sent any "weapons and ammunition" to any side</strong><br/>https://liveuamap.com/en/2022/21-march-bloomberg-chinas-envoy-to-the-us-qin-gang-on-sunday]]></description>
+                        <styleUrl>#Placemark22411279</styleUrl>            
+                        <Point>
+                        <coordinates>-77.0628,38.90515,100</coordinates>
+                        </Point>
+                        </Placemark><Style id="Placemark22411340">
+                        <IconStyle><Icon>
+                        <href>https://liveuamap.com/en/images/is14/speech_blue.png</href>
+                        </Icon> </IconStyle>
+                        </Style><Placemark>            
+                        <description><![CDATA[<strong>15:30 Lithuanian President Gitanas Nausėda has called for the isolation of Russia and its ally Belarus "in all sectors and all international organisations" by tightening the existing sanctions imposed since Russia started a war against Ukraine</strong><br/>https://liveuamap.com/en/2022/21-march-lithuanian-president-gitanas-nausda-has-called]]></description>
+                        <styleUrl>#Placemark22411340</styleUrl>            
+                        <Point>
+                        <coordinates>25.28602000,54.68322000,100</coordinates>
+                        </Point>
+                        </Placemark><Style id="Placemark22411327">
+                        <IconStyle><Icon>
+                        <href>https://liveuamap.com/en/images/is14/rally_green.png</href>
+                        </Icon> </IconStyle>
+                        </Style><Placemark>            
+                        <description><![CDATA[<strong>15:54 Zap️ Russia fires at protesters in occupied Kherson, injuries reported.  According to Kherson media outlet Most, Russian troops opened fire and threw stun grenades at unarmed protestors in the center of occupied Kherson. Those injured were taken to the hospital, the media reports</strong><br/>https://liveuamap.com/en/2022/21-march-zap-russia-fires-at-protesters-in-ocg]]></description>
+                        <styleUrl>#Placemark22411327</styleUrl>            
+                        <Point>
+                        <coordinates>30.5234,50.4501,100</coordinates>
+                        </Point>
+                        </Placemark><Style id="Placemark22411318">
+                        <IconStyle><Icon>
+                        <href>https://liveuamap.com/en/images/is14/speech_blue.png</href>
+                        </Icon> </IconStyle>
+                        </Style><Placemark>            
+                        <description><![CDATA[<strong>16:05 Defence Minister of Ukraine @oleksiireznikov met with British Defence Secretary @BWallaceMP in London today</strong><br/>https://liveuamap.com/en/2022/21-march-defence-minister-of-ukraine-oleksiireznikov-met]]></description>
+                        <styleUrl>#Placemark22411318</styleUrl>            
+                        <Point>
+                        <coordinates>-0.12497,51.49966,100</coordinates>
+                        </Point>
+                        </Placemark><Style id="Placemark22411316">
+                        <IconStyle><Icon>
+                        <href>https://liveuamap.com/en/images/is14/rescue_blue.png</href>
+                        </Icon> </IconStyle>
+                        </Style><Placemark>            
+                        <description><![CDATA[<strong>16:09 Kramatorsk(18:09). Red Alert: aerial threat. Sirens sounding. Take cover now!</strong><br/>https://liveuamap.com/en/2022/21-march-kramatorsk1809-red-alert-aerial-threg]]></description>
+                        <styleUrl>#Placemark22411316</styleUrl>            
+                        <Point>
+                        <coordinates>37.55561,48.72392,100</coordinates>
+                        </Point>
+                        </Placemark><Style id="Placemark22411323">
+                        <IconStyle><Icon>
+                        <href>https://liveuamap.com/en/images/is14/speech_red.png</href>
+                        </Icon> </IconStyle>
+                        </Style><Placemark>            
+                        <description><![CDATA[<strong>16:12 Khamenei: In the events in Ukraine, everyone is witnessing the Western governments' racism. They stop trains to separate the black people, who are seeking refuge & escaping the problems of the war, to make them get off the train</strong><br/>https://liveuamap.com/en/2022/21-march-khamenei-in-the-events-in-ukraine-everyo]]></description>
+                        <styleUrl>#Placemark22411323</styleUrl>            
+                        <Point>
+                        <coordinates>51.39484,35.7887,100</coordinates>
+                        </Point>
+                        </Placemark><Style id="Placemark22411336">
+                        <IconStyle><Icon>
+                        <href>https://liveuamap.com/en/images/is14/bomb_red.png</href>
+                        </Icon> </IconStyle>
+                        </Style><Placemark>            
+                        <description><![CDATA[<strong>16:29 In Rubizhne Russian army shelled school and buildings with shelters</strong><br/>https://liveuamap.com/en/2022/21-march-in-rubizhne-russian-army-shelled-school-and-buildings]]></description>
+                        <styleUrl>#Placemark22411336</styleUrl>            
+                        <Point>
+                        <coordinates>38.36334,49.02166,100</coordinates>
                         </Point>
                         </Placemark><Style id="Placemark1111">
                                 <LineStyle>
