@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document> <Style id="Placemark22410854">
+                        <IconStyle><Icon>
+                        <href>https://sudan.liveuamap.com/en/images/is14/rally_green.png</href>
+                        </Icon> </IconStyle>
+                        </Style><Placemark>            
+                        <description><![CDATA[<strong>18:20 Night protests in Medani, Jezira State</strong><br/>https://sudan.liveuamap.com/en/2022/20-march-night-protests-in-medani-jezira-state]]></description>
+                        <styleUrl>#Placemark22410854</styleUrl>            
+                        <Point>
+                        <coordinates>33.53199000,14.39503000,100</coordinates>
+                        </Point>
+                        </Placemark><Style id="Placemark22410864">
+                        <IconStyle><Icon>
+                        <href>https://sudan.liveuamap.com/en/images/is14/dead_green.png</href>
+                        </Icon> </IconStyle>
+                        </Style><Placemark>            
+                        <description><![CDATA[<strong>18:24 Sudan Doctors Committee reports the death of Ahmed Maqameldin, 13 years old, after he was shot in the head by SudanCoup forces during March 17 demos in Omdurman</strong><br/>https://sudan.liveuamap.com/en/2022/20-march-sudan-doctors-committee-reports-the-death-of-ahmed]]></description>
+                        <styleUrl>#Placemark22410864</styleUrl>            
+                        <Point>
+                        <coordinates>32.48069000,15.64758000,100</coordinates>
+                        </Point>
+                        </Placemark></Document></kml>
