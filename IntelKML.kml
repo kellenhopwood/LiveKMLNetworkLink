@@ -59,6 +59,16 @@
 		<refreshMode>onInterval</refreshMode>
 		<refreshInterval>300</refreshInterval>
 	  </Link>
+	  <Link>
+	    <href>https://fsapps.nwcg.gov/afm/data/kml/conus.kmz</href>
+		<refreshMode>onInterval</refreshMode>
+		<refreshInterval>900</refreshInterval>
+	  </Link>   
+	  <Link>
+	    <href>https://www.scribblemaps.com/api/maps/091194.kml?download=true</href>
+		<refreshMode>onInterval</refreshMode>
+		<refreshInterval>300</refreshInterval>
+	  </Link>   
     </NetworkLink>
 </Folder>
 </kml>
