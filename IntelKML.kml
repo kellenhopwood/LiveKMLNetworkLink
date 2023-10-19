@@ -30,10 +30,35 @@
 	  <visibility>1</visibility>
 	  <flyToView>0</flyToView>
 	  <Link>
-	    <href>https://gist.githubusercontent.com/kellenhopwood/2678843ab896acd412d123174abc569b/raw/6bf03ed1f1982607d6d4f313eb678688dbb7be06/IntelKML.kml</href>
+	    <href>https://gist.githubusercontent.com/kellenhopwood/e1479554193f8abbf3bd64060a6ba2ec/raw/101d25cf0fbc6a5246b1ccf3fc85f1ba6d5c6ddc/IntelKML-TFR-Data.kml</href>
 		<refreshMode>onInterval</refreshMode>
 		<refreshInterval>300</refreshInterval>
-	  </Link>   
+	  </Link>
+           <Link>
+	    <href>https://gist.githubusercontent.com/kellenhopwood/9947132f51a055d97e62dc163857ad10/raw/cb52052cbad4389cfa81727cab4eada5a466e82f/UAWarData.kml</href>
+		<refreshMode>onInterval</refreshMode>
+		<refreshInterval>300</refreshInterval>
+	  </Link>
+           <Link>
+	    <href>https://gist.githubusercontent.com/kellenhopwood/629606040f0373ae142a529d54250da2/raw/f7f2b3abed930a8e19b85defac00bf5460e1110b/IntelKML-User-Only.kml</href>
+		<refreshMode>onInterval</refreshMode>
+		<refreshInterval>300</refreshInterval>
+	  </Link>
+           <Link>
+	    <href>https://gist.githubusercontent.com/kellenhopwood/8986cf612054430139028eafad595810/raw/fdb7c25b86fa088c301810348001932be73d5643/IntelKML-EarthQuake-Data.kml</href>
+		<refreshMode>onInterval</refreshMode>
+		<refreshInterval>300</refreshInterval>
+	  </Link>
+           <Link>
+	    <href>https://gist.githubusercontent.com/kellenhopwood/06130c6aea52960f2b73f212b1b4c642/raw/fa4d1159dbc929832678e8fd2199932791be06fb/IntelKML-LiveUA-Only.kml</href>
+		<refreshMode>onInterval</refreshMode>
+		<refreshInterval>300</refreshInterval>
+	  </Link>
+           <Link>
+	    <href>https://gist.githubusercontent.com/kellenhopwood/439f6acd050cc1da132f0cd42cafd146/raw/116c0d43b1296967a8992b58e47e142ac825c3b0/IntelKML-Traffic-Only.kml</href>
+		<refreshMode>onInterval</refreshMode>
+		<refreshInterval>300</refreshInterval>
+	  </Link>
     </NetworkLink>
 </Folder>
 </kml>
