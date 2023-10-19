@@ -25,7 +25,7 @@
     </Region>
  
     <NetworkLink>
-      <name>Intelligence Report</name>
+      <name>IntelKML TFR Data</name>
       <open>0</open>
 	  <visibility>1</visibility>
 	  <flyToView>0</flyToView>
@@ -34,36 +34,78 @@
 		<refreshMode>onInterval</refreshMode>
 		<refreshInterval>300</refreshInterval>
 	  </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>IntelKML UKrainian War Data</name>
+      <open>0</open>
+	  <visibility>1</visibility>
+	  <flyToView>0</flyToView>
            <Link>
 	    <href>https://gist.githubusercontent.com/kellenhopwood/9947132f51a055d97e62dc163857ad10/raw/cb52052cbad4389cfa81727cab4eada5a466e82f/UAWarData.kml</href>
 		<refreshMode>onInterval</refreshMode>
 		<refreshInterval>300</refreshInterval>
 	  </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>IntelKML User Data Submissions</name>
+      <open>0</open>
+	  <visibility>1</visibility>
+	  <flyToView>0</flyToView>
            <Link>
 	    <href>https://gist.githubusercontent.com/kellenhopwood/629606040f0373ae142a529d54250da2/raw/f7f2b3abed930a8e19b85defac00bf5460e1110b/IntelKML-User-Only.kml</href>
 		<refreshMode>onInterval</refreshMode>
 		<refreshInterval>300</refreshInterval>
 	  </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>IntelKML Earthquake Data</name>
+      <open>0</open>
+	  <visibility>1</visibility>
+	  <flyToView>0</flyToView>
            <Link>
 	    <href>https://gist.githubusercontent.com/kellenhopwood/8986cf612054430139028eafad595810/raw/fdb7c25b86fa088c301810348001932be73d5643/IntelKML-EarthQuake-Data.kml</href>
 		<refreshMode>onInterval</refreshMode>
 		<refreshInterval>300</refreshInterval>
 	  </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>IntelKML Automated Collections</name>
+      <open>0</open>
+	  <visibility>1</visibility>
+	  <flyToView>0</flyToView>
            <Link>
 	    <href>https://gist.githubusercontent.com/kellenhopwood/06130c6aea52960f2b73f212b1b4c642/raw/fa4d1159dbc929832678e8fd2199932791be06fb/IntelKML-LiveUA-Only.kml</href>
 		<refreshMode>onInterval</refreshMode>
 		<refreshInterval>300</refreshInterval>
 	  </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>IntelKML Traffic Data</name>
+      <open>0</open>
+	  <visibility>1</visibility>
+	  <flyToView>0</flyToView>
            <Link>
 	    <href>https://gist.githubusercontent.com/kellenhopwood/439f6acd050cc1da132f0cd42cafd146/raw/116c0d43b1296967a8992b58e47e142ac825c3b0/IntelKML-Traffic-Only.kml</href>
 		<refreshMode>onInterval</refreshMode>
 		<refreshInterval>300</refreshInterval>
 	  </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>IntelKML Fire Data</name>
+      <open>0</open>
+	  <visibility>1</visibility>
+	  <flyToView>0</flyToView>
 	  <Link>
 	    <href>https://fsapps.nwcg.gov/afm/data/kml/conus.kmz</href>
 		<refreshMode>onInterval</refreshMode>
 		<refreshInterval>900</refreshInterval>
-	  </Link>   
+	  </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>IntelKML Frontline Data</name>
+      <open>0</open>
+	  <visibility>1</visibility>
+	  <flyToView>0</flyToView>
 	  <Link>
 	    <href>https://www.scribblemaps.com/api/maps/091194.kml?download=true</href>
 		<refreshMode>onInterval</refreshMode>
