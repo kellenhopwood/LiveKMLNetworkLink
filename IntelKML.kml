@@ -52,7 +52,7 @@
 	  <visibility>1</visibility>
 	  <flyToView>0</flyToView>
            <Link>
-	    <href>https://gist.githubusercontent.com/kellenhopwood/629606040f0373ae142a529d54250da2/raw/f7f2b3abed930a8e19b85defac00bf5460e1110b/IntelKML-User-Only.kml</href>
+	    <href>https://gist.githubusercontent.com/kellenhopwood/629606040f0373ae142a529d54250da2/raw/ffea852319d7ff744865edf96d28e35d7efbe15f/IntelKML-User-Only.kml</href>
 		<refreshMode>onInterval</refreshMode>
 		<refreshInterval>300</refreshInterval>
 	  </Link>
