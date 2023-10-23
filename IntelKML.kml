@@ -96,7 +96,7 @@
 	  <visibility>1</visibility>
 	  <flyToView>0</flyToView>
 	  <Link>
-	    <href>https://fsapps.nwcg.gov/afm/data/kml/conus.kmz</href>
+	    <href>https://firms.modaps.eosdis.nasa.gov/usfs/api/kml_fire_footprints/usa_contiguous_and_hawaii/24h/landsat/FirespotArea_usa_contiguous_and_hawaii_landsat_24h.kmz</href>
 		<refreshMode>onInterval</refreshMode>
 		<refreshInterval>900</refreshInterval>
 	  </Link>
