@@ -30,7 +30,7 @@
 	  <visibility>1</visibility>
 	  <flyToView>0</flyToView>
 	  <Link>
-	    <href>https://gist.githubusercontent.com/kellenhopwood/e1479554193f8abbf3bd64060a6ba2ec/raw/IntelKML-TFR-Data.kml</href>
+	    <href>https://gist.githubusercontent.com/IntelKML/4764d54cfd7affe8e8e0df7b413f9bba/raw/IntelKML-TFR-Data.kml</href>
 		<refreshMode>onInterval</refreshMode>
 		<refreshInterval>300</refreshInterval>
 	  </Link>
@@ -41,7 +41,7 @@
 	  <visibility>1</visibility>
 	  <flyToView>0</flyToView>
            <Link>
-	    <href>https://gist.githubusercontent.com/kellenhopwood/9947132f51a055d97e62dc163857ad10/raw/UAWarData.kml</href>
+	    <href>https://gist.githubusercontent.com/IntelKML/4764d54cfd7affe8e8e0df7b413f9bba/raw/UAWarData.kml</href>
 		<refreshMode>onInterval</refreshMode>
 		<refreshInterval>300</refreshInterval>
 	  </Link>
@@ -52,7 +52,7 @@
 	  <visibility>1</visibility>
 	  <flyToView>0</flyToView>
            <Link>
-	    <href>https://gist.githubusercontent.com/kellenhopwood/629606040f0373ae142a529d54250da2/raw/IntelKML-User-Only.kml</href>
+	    <href>https://gist.githubusercontent.com/IntelKML/4764d54cfd7affe8e8e0df7b413f9bba/raw/IntelKML-MISP.kml</href>
 		<refreshMode>onInterval</refreshMode>
 		<refreshInterval>300</refreshInterval>
 	  </Link>
@@ -63,7 +63,7 @@
 	  <visibility>1</visibility>
 	  <flyToView>0</flyToView>
            <Link>
-	    <href>https://gist.githubusercontent.com/kellenhopwood/8986cf612054430139028eafad595810/raw/IntelKML-EarthQuake-Data.kml</href>
+	    <href>https://gist.githubusercontent.com/IntelKML/4764d54cfd7affe8e8e0df7b413f9bbaraw/IntelKML-EarthQuake-Data.kml</href>
 		<refreshMode>onInterval</refreshMode>
 		<refreshInterval>300</refreshInterval>
 	  </Link>
@@ -74,7 +74,7 @@
 	  <visibility>1</visibility>
 	  <flyToView>0</flyToView>
            <Link>
-	    <href>https://gist.githubusercontent.com/kellenhopwood/06130c6aea52960f2b73f212b1b4c642/raw/IntelKML-LiveUA-Only.kml</href>
+	    <href>https://gist.githubusercontent.com/IntelKML/4764d54cfd7affe8e8e0df7b413f9bba/raw/IntelKML-LiveUA-Only.kml</href>
 		<refreshMode>onInterval</refreshMode>
 		<refreshInterval>300</refreshInterval>
 	  </Link>
@@ -85,7 +85,7 @@
 	  <visibility>1</visibility>
 	  <flyToView>0</flyToView>
            <Link>
-	    <href>https://gist.githubusercontent.com/kellenhopwood/439f6acd050cc1da132f0cd42cafd146/raw/IntelKML-Traffic-Only.kml</href>
+	    <href>https://gist.githubusercontent.com/IntelKML/4764d54cfd7affe8e8e0df7b413f9bba/raw/IntelKML-Traffic-Only.kml</href>
 		<refreshMode>onInterval</refreshMode>
 		<refreshInterval>300</refreshInterval>
 	  </Link>
